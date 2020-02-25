@@ -1,0 +1,6 @@
+#! /bin/sh
+
+papis export --all -f bibtex "project:mypubs" |
+	# sed "s/ć/{\\\'c}/g" |
+	sed "/eventtitle = /d" |
+	sed "/type = /d" > cv.bib
