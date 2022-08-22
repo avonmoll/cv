@@ -18,6 +18,7 @@
   date = {2020-12-11},
   doi = {10.1109/CDC42340.2020.9304018},
   location = {Jeju Island, South Korea},
+  pages = {1658--1665},
   publisher = {IEEE},
   title = {Guarding a Circular Target By Patrolling its Perimeter},
   url = {https://avonmoll.github.io/files/guarding-a-circular-target-by-patrolling-its-perimeter.pdf},
@@ -62,7 +63,7 @@
   author = {Von Moll, Alexander and Pachter, Meir and Shishika, Daigo and Fuchs, Zachariah},
   date = {2021-06-30},
   journal = {Transactions on Automatic Control},
-  note = {Submitted for Review},
+  note = {Accepted},
   publisher = {IEEE},
   title = {Circular Target Defense Differential Games},
   year = {2021},
@@ -98,6 +99,7 @@
   date = {2021-05-28},
   doi = {10.23919/ACC50511.2021.9483106},
   location = {New Orleans},
+  pages = {3188-3195},
   publisher = {IEEE},
   title = {Turret Lock-on in an Engage or Retreat Game},
   url = {https://avonmoll.github.io/files/turret-lockon-in-an-engage-or-retreat-game.pdf},
@@ -111,7 +113,6 @@
   date = {2021-08-31},
   doi = {10.1109/CCTA48906.2021.9658922},
   location = {San Diego, CA},
-  note = {Accepted},
   title = {Engage or Retreat Differential Game with N-Targets and Distributed Defensive Assets},
   year = {2021},
 }
@@ -123,7 +124,6 @@
   date = {2021-08-31},
   doi = {10.1109/CCTA48906.2021.9659042},
   location = {San Diego, CA},
-  note = {Accepted},
   title = {Engagement Zone Defense of a Non-Maneuvering Evader},
   year = {2021},
 }
@@ -131,11 +131,12 @@
 @article{vonmoll2022turret-runner-penetrator,
   abstract = {A scenario is considered in which two cooperative Attackers aim to infiltrate a circular target guarded by a Turret.  The engagement plays out in the two dimensional plane; the holonomic Attackers have the same speed and move with simple motion and the Turret is stationary, located at the target circle's center, and has a bounded turn rate.  When the Turret's look angle is aligned with an Attacker, that Attacker is neutralized.  In this paper, we focus on a region of the state space wherein only one of the Attackers is able to reach the target circle -- and even then, only with the help of its partner Attacker.  The Runner distracts the Turret and ends up being neutralized in order that the Penetrator can be guaranteed to hit the target circle.  We formulate the Turret-Runner-Penetrator scenario as a differential game over the Value of the subsequent game of min/max terminal angle which takes place between the Turret and Penetrator once the Runner has been neutralized.  The solution to the Game of Degree, including equilibrium Turret, Runner, and Penetrator strategies, as well as the Value function are given.  The case in which the Penetrator can reach the target before the Turret can neutralize the Runner is formulated and solved.  Finally, the assumption of a priori defined roles/goals is relaxed and the minimum of the solutions to the two fixed-role games is shown to be a Global Stackelberg Equilibrium.},
   author = {Von Moll, Alexander and Shishika, Daigo and Fuchs, Zachariah and Dorothy, Michael},
-  date = {2022-02-26},
+  date = {2022-05-23},
+  doi = {10.1109/TAES.2022.3176599},
   journal = {Transactions on Aerospace \& Electronic Systems},
-  note = {Submitted for Review},
   publisher = {IEEE},
   title = {The Turret-Runner-Penetrator Differential Game with Role Selection},
+  url = {https://avonmoll.github.io/files/trpdg-with-role-selection.pdf},
   year = {2022},
 }
 
@@ -144,6 +145,7 @@
   author = {Weintraub, Isaac E. and Von Moll, Alexander and Carrizales, Christian and Hanlon, Nicholas and Fuchs, Zachariah},
   booktitle = {Scitech},
   date = {2022-01-03},
+  doi = {10.2514/6.2022-1587},
   location = {San Diego},
   note = {Accepted},
   publisher = {AIAA},
@@ -180,8 +182,8 @@
   abstract = {In this paper we model and analyze a scenario in the two-dimensional plane involving a mobile Attacker and stationary Defender. There are two possibilities for termination: the Attacker can collide with the Defender (engagement) or maneuver to a safe zone away from the Defender (retreat). The Defender is equipped with a directional turret, which it can rotate with a bounded rate. If the turret is aligned with the Attacker's position, the Defender has a lock on the Attacker and may choose to fire on the Attacker. Thus, whether engaging or retreating, the Attacker has incentive to evade the turret's line of sight and thereby avoid being locked-on. In the case of retreat, if lock-on occurs the Defender cooperates with the Attacker by withholding fire to allow the Attacker to retreat. However, if the Attacker chooses to engage and lock-on occurs, the Defender will open fire on the Attacker. We model the scenario as a set of differential games with different cost functionals depending on the type of termination. The agents are assumed to have full state information. In the case that the Defender can lock onto the Attacker the pre- and post-lock portions of the game are solved individually and combined together. Otherwise, the Attacker can terminate the game prior to lock-on and the game is comprised of a single stage. The equilibrium strategies are derived in each case, and a partitioning of the state space wherein a particular goal selection is optimal is constructed.},
   author = {Von Moll, Alexander and Fuchs, Zachariah},
   date = {2022-10-01},
-  journal = {Transactions on Aerospace \& Electronic Systems},
-  note = {Submitted for Review},
+  journal = {None},
+  note = {In preparation},
   publisher = {IEEE},
   title = {A Lock-Evade, Engage or Retreat Game},
   year = {2022},
@@ -205,6 +207,17 @@
   journal = {Dynamic Games and Applications},
   note = {Submitted for Review},
   title = {Pure Pursuit},
+  year = {2022},
+}
+
+@article{manyam2022shortest,
+  abstract = {We present a path planning problem for a pursuing Unmanned Aerial Vehicle (UAV) to intercept a target traveling on a circle. The target is cooperative, and its position, heading and speed are precisely known. The pursuing UAV has nonholonomic motion constraints, and therefore the path traveled must satisfy the minimum turn radius constraints. We consider the class of Dubins paths as candidate solutions, and analyze the characteristics of the six modes of Dubins paths where the final position is restricted to lie on the target circle with heading in the tangential direction of the circle. For each Dubins mode, we derive the feasibility limits, discontinuities and local extrema. Using this analysis the intercepting paths are found by a systematic bisection search in the feasible regions of each of the Dubins modes. We prove that the algorithm finds the optimal (shortest length) intercepting path if it is a Dubins path. If the shortest intercepting path is not a Dubins path for any given instance, the algorithm finds a tight lower bound and an upper bound to the optimal solution.},
+  author = {Manyam, Satyanarayana Gupta and Casbeer, David W. and Von Moll, Alexander and Fuchs, Zachariah},
+  date = {2022-06-01},
+  doi = {10.2514/1.G005748},
+  journal = {Journal of Guidance, Control, and Dynamics},
+  publisher = {AIAA},
+  title = {Shortest Dubins Paths to Intercept a Target Moving on a Circle},
   year = {2022},
 }
 
@@ -240,17 +253,6 @@
   publisher = {JANNAF Interagency Propulsion Committee},
   title = {Recent Progress, Challenges, and Future Development Needs of Thermally/Energy Efficient Fuel Actuator Pumping Systems for Military Gas Turbine Engine Applications},
   year = {2014},
-}
-
-@inproceedings{vonmoll2013comparison,
-  abstract = {A distributed engine control system (DECS) offering flexibility and scalability is envisioned for the next generation of propulsion controls. Perhaps the most touted benefit of a DECS is the potential to reduce the amount of harnessing which connects throughout the engine. Such a system is comprised of several network sections incorporating control nodes or data concentrators (DCs). These DCs contain control logic to perform control function computations and are connected to the full authority digital engine control (FADEC) via a high-speed data communication bus. A novel approach for analyzing and evaluating three topologies\textendash{}ring, star, and bus\textendash{}in the context of a relevant military engine was described. In this study, the algorithm uses a particle swarm optimization process to evolve solutions to a multi-objective optimization problem. The results of this study indicate there is potential for large wire length savings in a distributed control architecture.},
-  author = {Von Moll, Alexander and Behbahani, Alireza R.},
-  booktitle = {59th IIS 2013},
-  date = {2013-01-01},
-  publisher = {ISA},
-  title = {Comparison of Communication Architectures and Network Topologies for Distributed Propulsion Controls},
-  url = {http://www.dtic.mil/dtic/tr/fulltext/u2/a586909.pdf},
-  year = {2013},
 }
 
 @inproceedings{manyam2019coordinating,
@@ -381,6 +383,17 @@
   doi = {10.23919/ACC.2019.8814913},
   title = {Optimal Dubins Paths to Intercept a Moving Target on a Circle},
   year = {2019},
+}
+
+@inproceedings{vonmoll2013comparison,
+  abstract = {A distributed engine control system (DECS) offering flexibility and scalability is envisioned for the next generation of propulsion controls. Perhaps the most touted benefit of a DECS is the potential to reduce the amount of harnessing which connects throughout the engine. Such a system is comprised of several network sections incorporating control nodes or data concentrators (DCs). These DCs contain control logic to perform control function computations and are connected to the full authority digital engine control (FADEC) via a high-speed data communication bus. A novel approach for analyzing and evaluating three topologies\textendash{}ring, star, and bus\textendash{}in the context of a relevant military engine was described. In this study, the algorithm uses a particle swarm optimization process to evolve solutions to a multi-objective optimization problem. The results of this study indicate there is potential for large wire length savings in a distributed control architecture.},
+  author = {Von Moll, Alexander and Behbahani, Alireza R.},
+  booktitle = {59th IIS},
+  date = {2013-02-01},
+  publisher = {ISA},
+  title = {Comparison of Communication Architectures and Network Topologies for Distributed Propulsion Controls},
+  url = {http://www.dtic.mil/dtic/tr/fulltext/u2/a586909.pdf},
+  year = {2013},
 }
 
 @article{pachter2020cooperative,
