@@ -1,0 +1,1598 @@
+nimmagadda2026information-theoretic:
+  type: article
+  title: Information-Theoretic Multi-Agent Path Planning for Risk-Aware Navigation Under Environmental Uncertainty
+  author:
+  - Nimmagadda, Aditya
+  - Park, John
+  - Von Moll, Alexander
+  - Weintraub, Isaac
+  - Casbeer, David
+  date: 2026-06-08
+  note: Submitted for Review
+  parent:
+    type: proceedings
+    title: Aviation Forum
+    publisher: AIAA
+    location: San Diego, USA
+shah2026strategic:
+  type: article
+  title: Strategic Evasion Using a Multi-Hypothesis Control Barrier Function
+  author:
+  - Shah, Sagar
+  - Von Moll, Alexander
+  - Weintraub, Isaac
+  date: 2026-06-08
+  note: Submitted for Review
+  parent:
+    type: proceedings
+    title: Aviation Forum
+    publisher: AIAA
+    location: San Diego, USA
+das2026dynamic:
+  type: article
+  title: Dynamic Assignment Switching and Singular Surfaces in Multi-Agent Pursuit-Evasion Games
+  author:
+  - Das, Goutam
+  - Lee, Yoonjae
+  - Von Moll, Alexander
+  - Maity, Dipankar
+  - Dorothy, Michael
+  - Bakolas, Efstathios
+  - Shishika, Daigo
+  date: 2026-05-01
+  note: Submitted for Review
+  parent:
+    type: periodical
+    title: Transactions on Automatic Control
+    publisher: IEEE
+vonmoll2026target:
+  type: article
+  title: Target Defense Using a Turret and Mobile Defender Team
+  author:
+  - Von Moll, Alexander
+  - Maity, Dipankar
+  - Pachter, Meir
+  - Shishika, Daigo
+  - Dorothy, Michael
+  date: 2026-05-26
+  url: https://arxiv.org/abs/2509.09777
+  serial-number:
+    doi: 10.1109/LCSYS.2025.3645833
+  parent:
+    type: periodical
+    title: Control Systems Letters
+    publisher: IEEE
+surve2026heterogeneous:
+  type: article
+  title: Heterogeneous Pursuit of an Active Target Under Sensing Constraints
+  author:
+  - Surve, Prajakta
+  - Bopardikar, Shaunak D.
+  - Von Moll, Alexander
+  - Weintraub, Isaac
+  - Casbeer, David
+  date: 2026-05-26
+  serial-number:
+    doi: 10.1109/LCSYS.2025.3645033
+  parent:
+    type: periodical
+    title: Control Systems Letters
+    publisher: IEEE
+chapman2026safe:
+  type: article
+  title: Safe Navigation in the Presence of Range-Limited Pursuers
+  author:
+  - Chapman, Thomas
+  - Von Moll, Alexander
+  - Weintraub, Isaac E.
+  date: 2026-05-26
+  url: https://arxiv.org/pdf/2509.04258
+  serial-number:
+    doi: 10.1109/LCSYS.2025.3645221
+  parent:
+    type: periodical
+    title: Control Systems Letters
+    publisher: IEEE
+subramanian2026certification:
+  type: article
+  title: Certification of Dynamical Systems using End-to-End Distributionally-Robust Uncertainty Quantification
+  author:
+  - Subramanian, Avinash
+  - Sabharwal, Aayush
+  - Chung, Benjamin
+  - Clugston, Jadon
+  - Day, Joshua
+  - Rackauckas, Christopher
+  - Holtorf, Flemming
+  - Von Moll, Alexander
+  - Gerlach, Adam
+  date: 2026-01-12
+  serial-number:
+    doi: 10.2514/6.2026-2022
+  parent:
+    type: proceedings
+    title: AIAA SciTech 2026
+    publisher: AIAA
+    location: Orlando, USA
+denton2025basic:
+  type: article
+  title: The Basic Engagement Zone in 3-D
+  author:
+  - Denton, Alexander W.
+  - Kunz, Donald
+  - Weintraub, Isaac E.
+  - Von Moll, Alexander
+  date: 2025-07-28
+  serial-number:
+    doi: 10.1109/NAECON65708.2025.11235322
+  parent:
+    type: proceedings
+    title: National Aerospace Electronics Conference
+    publisher: IEEE
+    location: Dayton, USA
+vonmoll2026reactive:
+  type: article
+  title: Reactive Vehicle Guidance using Dynamic Maneuvering Cue
+  author:
+  - Von Moll, Alexander
+  - Weintraub, Isaac
+  date: 2026-01-12
+  url: https://arxiv.org/abs/2512.09083
+  serial-number:
+    doi: 10.2514/6.2026-1199
+  parent:
+    type: proceedings
+    title: AIAA SciTech
+    publisher: AIAA
+    location: Orlando, USA
+surve2025mutual:
+  type: article
+  title: Mutual Support by Sensor-Attacker Team for a Passive Target
+  author:
+  - Surve, Prajakta
+  - Bopardikar, Shaunak
+  - Von Moll, Alexander
+  - Weintraub, Isaac
+  - Casbeer, David W.
+  date: 2025-10-01
+  url: https://arxiv.org/pdf/2509.06092
+  serial-number:
+    doi: 10.1109/OJCSYS.2025.3612246
+  parent:
+    type: periodical
+    title: Open Journal of Control Systems
+    publisher: IEEE
+milutinovic2025cooperative:
+  type: article
+  title: Cooperative Pursuit-Evasion Games with a Flat Sphere Condition
+  author:
+  - Milutinović, Dejan
+  - Von Moll, Alexander
+  - Manyam, Satyanarayana G.
+  - Casbeer, David W.
+  - Weintraub, Isaac E.
+  - Pachter, Meir
+  date: 2025-10-01
+  serial-number:
+    doi: 10.1109/OJCSYS.2025.3604640
+  parent:
+    type: periodical
+    title: Open Journal of Control Systems
+    publisher: IEEE
+vonmoll2025weapon:
+  type: misc
+  title: 'Weapon Engagement Zones: From First Principles to Applications'
+  author: Von Moll, Alexander
+  date: 2025-03-12
+  location: Houston, TX
+manyam2025dubins:
+  type: article
+  title: Dubins Path with Terminal Range and Field-of-View Constraints
+  author:
+  - Manyam, Satyanarayana G.
+  - Casbeer, David W.
+  - Von Moll, Alexander
+  - Weintraub, Isaac
+  date: 2025-12-09
+  serial-number:
+    doi: 10.1109/LCSYS.2025.3582622
+  parent:
+    type: proceedings
+    title: Conference on Decision and Control
+    publisher: IEEE
+    location: Rio de Janeiro
+chapman2025engagement:
+  type: article
+  title: Engagement Zones for a Turn Constrained Pursuer
+  author:
+  - Chapman, Thomas
+  - Weintraub, Isaac
+  - Von Moll, Alexander
+  - Garcia, Eloy
+  date: 2025-05-14
+  page-range: 763–768
+  serial-number:
+    doi: 10.1109/ICUAS65942.2025.11007894
+  parent:
+    type: proceedings
+    title: International Conference on Unmanned Aerial Systems
+    publisher: IFAC
+    location: Charlotte
+vonmoll2025one-vs-one:
+  type: article
+  title: One-vs-one Threat-Aware Weaponeering with Basic Engagement Zones
+  author:
+  - Von Moll, Alexander
+  - Milutinović, Dejan
+  - Weintraub, Isaac
+  - Casbeer, David W.
+  date: 2025-05-14
+  page-range: 1138–1145
+  url: http://arxiv.org/abs/2503.09475
+  serial-number:
+    doi: 10.1109/ICUAS65942.2025.11007913
+  parent:
+    type: proceedings
+    title: International Conference on Unmanned Aerial Systems
+    publisher: IFAC
+    location: Charlotte
+weintraub2025virtual:
+  type: article
+  title: Virtual Target Selection for a Multiple-Pursuer--Multiple-Evader Scenario
+  author:
+  - Weintraub, Isaac
+  - Von Moll, Alexander
+  - Casbeer, David
+  - Manyam, Satyanarayana G.
+  date: 2025-01-22
+  serial-number:
+    doi: 10.2514/1.I011510
+  parent:
+    type: periodical
+    title: Journal of Aerospace Information Systems
+    publisher: AIAA
+mora2025influence:
+  type: article
+  title: Influence of Malicious Agents in a Team Seeking to Contain an Evader
+  author:
+  - Mora, Braulio
+  - Chakravarthy, Animesh
+  - Von Moll, Alexander
+  - Weintraub, Isaac E.
+  - Casbeer, David
+  date: 2025-01-03
+  serial-number:
+    doi: 10.2514/6.2025-1348
+  parent:
+    type: proceedings
+    title: SciTech
+    publisher: AIAA
+    location: Orlando
+bakker2025operator-theoretic:
+  type: article
+  title: Operator-Theoretic Methods for Differential Games
+  author:
+  - Bakker, Craig
+  - Rupe, Adam
+  - Von Moll, Alexander
+  - Gerlach, Adam
+  date: 2025-04-01
+  note: Submitted for Review
+  parent:
+    type: periodical
+    title: Journal of Computational Physics
+    publisher: Elsevier
+    location: None
+manyam2025shortest:
+  type: article
+  title: Shortest Dubins Path to a Moving Circle with Free Final Heading
+  author:
+  - Manyam, Satyanarayana G.
+  - Casbeer, David W.
+  - Von Moll, Alexander
+  - Weintraub, Isaac
+  date: 2025-07-08
+  serial-number:
+    doi: 10.23919/ACC63710.2025.11107508
+  parent:
+    type: proceedings
+    title: American Control Conference
+    publisher: IFAC
+    location: Denver, CO
+surve2025heterogeneous:
+  type: article
+  title: Heterogeneous Pursuit of Multiple Translating Targets
+  author:
+  - Surve, Prajakta
+  - Frost, Richard L.
+  - Bopardikar, Shaunak D.
+  - Von Moll, Alexander
+  - Casbeer, David W.
+  date: 2025-08-25
+  serial-number:
+    doi: 10.1109/CCTA53793.2025.11151369
+  parent:
+    type: proceedings
+    title: Conference on Control Technology and Applications
+    publisher: IEEE
+    location: San Diego
+milutinovic2025stochastic:
+  type: article
+  title: Stochastic Optimal Avoidance of Multiple Engagement Zones
+  author:
+  - Milutinović, Dejan
+  - Von Moll, Alexander
+  - Weintraub, Isaac E.
+  - Casbeer, David
+  date: 2025-05-01
+  serial-number:
+    doi: 10.2514/1.I011593
+  parent:
+    type: periodical
+    title: Journal of Aerospace Information Systems
+    publisher: AIAA
+weintraub2025min-time:
+  type: article
+  title: Min-Time Escape of a Dubins Car from a Polygon
+  author:
+  - Weintraub, Isaac
+  - Von Moll, Alexander
+  - Casbeer, David
+  - Manyam, Satyanarayana G.
+  - Pachter, Meir
+  - Taylor, Colin
+  - Chapman, Thomas
+  date: 2025-07-08
+  url: https://arxiv.org/abs/2410.01589
+  serial-number:
+    doi: 10.23919/ACC63710.2025.11107564
+  parent:
+    type: proceedings
+    title: American Control Conference
+    publisher: IFAC
+    location: Denver, CO
+milutinovic2025policy:
+  type: article
+  title: Policy for Optimal Avoidance of Multiple Engagement Zones
+  author:
+  - Milutinović, Dejan
+  - Von Moll, Alexander
+  - Weintraub, Isaac E.
+  - Casbeer, David
+  date: 2025-01-08
+  serial-number:
+    doi: 10.2514/6.2025-1544
+  parent:
+    type: proceedings
+    title: SciTech
+    publisher: AIAA
+    location: Orlando, FL
+hansen2025optimal:
+  type: article
+  title: 'An Optimal Strategy for Off-Board Proximal Sensing of a Target: Part 2'
+  author:
+  - Hansen, Alexander
+  - Zollars, Michael
+  - Weintraub, Isaac
+  - Von Moll, Alexander
+  date: 2025-01-08
+  serial-number:
+    doi: 10.2514/6.2025-1350
+  parent:
+    type: proceedings
+    title: SciTech
+    publisher: AIAA
+    location: Orlando, FL
+weintraub2025optimal:
+  type: article
+  title: 'An Optimal Strategy for Off-Board Proximal Sensing of a Target: Part 1'
+  author:
+  - Weintraub, Isaac
+  - Von Moll, Alexander
+  - Hansen, Alexander
+  - Zollars, Michael
+  date: 2025-01-08
+  serial-number:
+    doi: 10.2514/6.2025-1349
+  parent:
+    type: proceedings
+    title: SciTech
+    publisher: AIAA
+    location: Orlando, FL
+weintraub2024minimum:
+  type: article
+  title: Minimum Time Escape from a Circular Region of a Dubins Car
+  author:
+  - Weintraub, Isaac E.
+  - Von Moll, Alexander
+  - Pachter, Meir
+  date: 2024-07-08
+  url: https://arxiv.org/abs/2405.05725
+  parent:
+    type: proceedings
+    title: National Aerospace Electronics Conference
+    publisher: IEEE
+    location: Dayton, OH
+shishika2025deception:
+  type: article
+  title: 'Deception in Turret Defense Game: Information Limiting Strategy to Induce Dilemma'
+  author:
+  - Shishika, Daigo
+  - Von Moll, Alexander
+  - Maity, Dipankar
+  - Dorothy, Michael
+  date: 2025-09-30
+  url: https://arxiv.org/abs/2405.07465
+  serial-number:
+    doi: 10.1109/OJCSYS.2025.3611726
+  parent:
+    type: periodical
+    title: Open Journal of Control Systems
+    publisher: IEEE
+    location: None
+wolek2025maximum:
+  type: article
+  title: Maximum Kinetic Energy Paths for a Dubins Vehicle with Decaying Speed
+  author:
+  - Wolek, Artur
+  - Casbeer, David
+  - Weintraub, Isaac
+  - Von Moll, Alexander
+  date: 2025-01-12
+  serial-number:
+    doi: 10.2514/6.2025-1351
+  parent:
+    type: proceedings
+    title: SciTech
+    publisher: AIAA
+    location: Orlando, USA
+vonmoll2023multi-agent:
+  type: report
+  title: Multi-Agent Risk-aware Teaming under Uncertainty (MARTY)
+  author:
+  - Von Moll, Alexander
+  - Weintraub, Isaac
+  date: 2023-12-01
+  publisher: Defense Technical Information Center
+  location: None
+  url: https://avonmoll.github.io/files/marty.pdf
+vonmoll2024constrained:
+  type: article
+  title: Constrained Turret Defense with Fixed Final Time
+  author:
+  - Von Moll, Alexander
+  - Gerlach, Adam R.
+  - Bakker, Craig
+  - Rupe, Adam
+  - Pachter, Meir
+  date: 2024-10-27
+  serial-number:
+    doi: 10.1016/j.ifacol.2025.01.121
+  parent:
+    type: proceedings
+    title: Modeling, Estimation and Control Conference
+    publisher: IFAC
+    location: Chicago, USA
+wolek2024sampling-based:
+  type: article
+  title: Sampling-Based Risk-Aware Path Planning Around Dynamic Engagement Zones
+  author:
+  - Wolek, Artur
+  - Weintraub, Isaac E.
+  - Von Moll, Alexander
+  - Casbeer, David
+  - Manyam, Satyanarayana G.
+  date: 2024-10-27
+  serial-number:
+    doi: 10.1016/j.ifacol.2025.01.030
+  parent:
+    type: proceedings
+    title: Modeling, Estimation and Control Conference
+    publisher: IFAC
+    location: Chicago, USA
+milutinovic2024pursuit-evasion:
+  type: article
+  title: Pursuit-Evasion on a Sphere and When it Can Be Considered Flat
+  author:
+  - Milutinović, Dejan
+  - Von Moll, Alexander
+  - Manyam, Satyanarayana G.
+  - Casbeer, David W.
+  - Weintraub, Isaac E.
+  - Pacther, Meir
+  date: 2024-12-16
+  url: https://arxiv.org/abs/2403.15188
+  serial-number:
+    doi: 10.1109/CDC56724.2024.10885887
+  parent:
+    type: proceedings
+    title: Conference on Decision and Control
+    publisher: IEEE
+    location: Milan, Italy
+vonmoll2024complete:
+  type: article
+  title: Complete Solution of the Lady in the Lake Scenario
+  author:
+  - Von Moll, Alexander
+  - Pachter, Meir
+  date: 2024-07-09
+  url: https://arxiv.org/abs/2401.14994
+  serial-number:
+    doi: 10.1007/s13235-024-00614-2
+  note: Presented at the International Symposium on Dynamic Games and Applications
+  parent:
+    type: periodical
+    title: Dynamic Games and Applications
+    publisher: Springer
+    location: Valladolid, Spain
+vonmoll2024basic:
+  type: article
+  title: Basic Engagement Zones
+  author:
+  - Von Moll, Alexander
+  - Weintraub, Isaac
+  date: 2024-09-12
+  page-range: 885–891
+  url: https://arxiv.org/abs/2311.06165
+  serial-number:
+    doi: 10.2514/1.I011394
+  parent:
+    type: periodical
+    title: Journal of Aerospace Information Systems
+    publisher: AIAA
+    location: None
+    issue: 10
+    volume: 21
+bajaj2024shortest:
+  type: article
+  title: Shortest Trajectory of a Dubins Vehicle with a Controllable Laser
+  author:
+  - Bajaj, Shivam
+  - Jha, Bhargav
+  - Bopardikar, Shaunak D.
+  - Von Moll, Alexander
+  - Casbeer, David
+  date: 2024-03-20
+  url: https://arxiv.org/abs/2403.12346
+  parent:
+    type: periodical
+    title: Transactions on Automatic Control
+    publisher: IEEE
+jha2024energy-optimal:
+  type: article
+  title: Energy-Optimal Joint Motion Planning of a Pursuer-Turret Assembly
+  author:
+  - Jha, Bhargav
+  - Bopardikar, Shaunak D.
+  - Von Moll, Alexander
+  - Casbeer, David
+  date: 2024-08-23
+  url: https://arxiv.org/abs/2403.14997v1
+  serial-number:
+    doi: 10.2514/1.G008067
+  parent:
+    type: periodical
+    title: Journal of Guidance, Dynamics, and Control
+    publisher: AIAA
+    location: None
+maity2024optimal:
+  type: article
+  title: Optimal Evasion From a Sensing Limited Pursuer
+  author:
+  - Maity, Dipankar
+  - Von Moll, Alexander
+  - Shishika, Daigo
+  - Dorothy, Michael
+  date: 2024-07-08
+  url: https://arxiv.org/pdf/2401.12848
+  serial-number:
+    doi: 10.23919/ACC60939.2024.10644990
+  parent:
+    type: proceedings
+    title: American Control Conference
+    location: Toronto, Canada
+mora2024escape:
+  type: article
+  title: Escape from an Orbiting Pursuer with a Nonzero Capture Radius
+  author:
+  - Mora, Braulio
+  - Von Moll, Alexander
+  - Weintraub, Isaac
+  - Casbeer, David W.
+  - Chakravarthy, Animesh
+  date: 2024-07-08
+  parent:
+    type: proceedings
+    title: National Aerospace Electronics Conference
+    location: Dayton, OH
+weintraub2024deterministic:
+  type: misc
+  title: Deterministic Risk-Aware Path Planning Around Multiple Threats
+  author:
+  - Weintraub, Isaac
+  - Wolek, Artur
+  - Von Moll, Alexander
+  - Casbeer, David
+  - Manyam, Satyanarayana Gupta
+  date: 2024-04-16
+  location: Laurel, MD
+vonmoll2024digitally:
+  type: misc
+  title: Digitally Enhanced Aim-Point for Capture for Mobile Targets
+  author:
+  - Von Moll, Alexander
+  - Weintraub, Isaac
+  date: 2024-04-16
+  location: Laurel, MD
+milutinovic2024stochastic:
+  type: misc
+  title: Stochastic Risk-Aware Path Planning Around Multiple Threats
+  author:
+  - Milutinović, Dejan
+  - Von Moll, Alexander
+  - Weintraub, Isaac
+  - Casbeer, David
+  date: 2024-04-16
+  location: Laurel, MD
+vonmoll2019game:
+  type: misc
+  title: Game Theoretic Control Strategies in Adversarial Environments
+  author: Von Moll, Alexander
+  date: 2019-08-16
+  location: Williamsburg, VA
+weintraub2023automatic:
+  type: misc
+  title: Automatic Engagement Zone Avoidance Theory and Practice
+  author:
+  - Weintraub, Isaac E.
+  - Von Moll, Alexander L.
+  - Hanlon, Nicholas
+  date: 2023-04-11
+  location: Laurel, MD
+vonmoll2024pure:
+  type: article
+  title: Pure Pursuit of a Target on a Circular Trajectory
+  author:
+  - Von Moll, Alexander
+  - Casbeer, David W.
+  - Weintraub, Isaac E.
+  - Pachter, Meir
+  date: 2024-01-30
+  url: https://isaacew.com/publication/vonmoll2024pure/vonmoll2024pure.pdf
+  serial-number:
+    doi: 10.2514/6.2024-0956
+  parent:
+    type: proceedings
+    title: AIAA SciTech
+    location: Orlando, FL
+weintraub2024virtual:
+  type: article
+  title: Virtual Target Selection for a Multiple-Pursuer Multiple-Evader Scenario
+  author:
+  - Weintraub, Isaac E.
+  - Von Moll, Alexander
+  - Casbeer, David W.
+  - Manyam, Satyanarayana G.
+  date: 2024-01-30
+  url: https://arxiv.org/abs/2305.19399
+  serial-number:
+    doi: 10.2514/6.2024-0123
+  parent:
+    type: proceedings
+    location: Orlando, FL
+weintraub2023range-limited:
+  type: article
+  title: Range-Limited Pursuit-Evasion
+  author:
+  - Weintraub, Isaac
+  - Von Moll, Alexander
+  - Pachter, Meir
+  date: 2023-08-28
+  serial-number:
+    doi: 10.1109/NAECON58068.2023.10365808
+  parent:
+    type: proceedings
+    title: 2023 National Aerospace and Electronics Conference (NAECON)
+    location: Dayton, OH
+bajaj2023competitive:
+  type: article
+  title: Competitive Perimeter Defense with a Turret and Mobile Vehicle
+  author:
+  - Bajaj, Shivam
+  - Bopardikar, Shaunak D.
+  - Von Moll, Alexander
+  - Torng, Eric
+  - Casbeer, David W.
+  date: 2023-02-27
+  serial-number:
+    doi: 10.3389/fcteg.2023.1128597
+  parent:
+    type: periodical
+    title: Frontiers in Control Engineering
+dillon2023optimal:
+  type: article
+  title: Optimal Trajectories for Aircraft Avoidance of Multiple Weapon Engagement Zones
+  author:
+  - Dillon, Patrick M.
+  - Zollars, Michael D.
+  - Weintraub, Isaac E.
+  - Von Moll, Alexander
+  date: 2023-06-12
+  page-range: 520–525
+  serial-number:
+    doi: 10.2514/1.I011224
+  parent:
+    type: periodical
+    title: Journal of Aerospace Information Systems
+    publisher: AIAA
+    issue: 8
+    volume: 20
+vonmoll2023turret:
+  type: article
+  title: Turret Escape Differential Game
+  author:
+  - Von Moll, Alexander
+  - Fuchs, Zachariah
+  - Shishika, Daigo
+  - Maity, Dipankar
+  - Dorothy, Michael
+  - Pachter, Meir
+  date: 2023-09-01
+  page-range: 100–114
+  url: https://avonmoll.github.io/files/turret-escape-differential-game.pdf
+  serial-number:
+    doi: 10.3934/jdg.2023012
+  note: Presented at the 19th ISDG.
+  parent:
+    type: periodical
+    title: Journal of Dynamics and Games
+    publisher: American Institute of Mathematical Sciences
+    location: New York
+    issue: 2
+    volume: 11
+bajaj2024multi-vehicle:
+  type: article
+  title: Multi-vehicle Perimeter Defense in Conical Environments
+  author:
+  - Bajaj, Shivam
+  - Bopardikar, Shaunak
+  - Torng, Eric
+  - Von Moll, Alexander
+  - Casbeer, David W.
+  date: 2024-01-10
+  serial-number:
+    doi: 10.1109/TRO.2024.3351556
+  parent:
+    type: periodical
+    title: Transactions on Robotics and Automation
+    publisher: IEEE
+    location: New York
+bajaj2023perimeter:
+  type: article
+  title: Perimeter Defense using a Turret with Finite Range and Startup Times
+  author:
+  - Bajaj, Shivam
+  - Bopardikar, Shaunak
+  - Von Moll, Alexander
+  - Torng, Eric
+  - Casbeer, David
+  date: 2023-05-31
+  serial-number:
+    doi: 10.23919/ACC55779.2023.10155838
+  parent:
+    type: proceedings
+    title: American Control Conference
+    publisher: IEEE
+    location: San Diego, USA
+weintraub2023surveillance:
+  type: article
+  title: Surveillance of a Faster Fixed-Course Target
+  author:
+  - Weintraub, Isaac
+  - Von Moll, Alexander
+  - Garcia, Eloy
+  - Casbeer, David
+  - Pachter, Meir
+  date: 2023-05-31
+  url: http://arxiv.org/abs/2209.11289
+  serial-number:
+    doi: 10.1109/TAES.2023.3237129
+  parent:
+    type: periodical
+    title: IEEE Transactions on Aerospace & Electronic Systems
+    publisher: IEEE
+    location: New York
+pourghorban2022target:
+  type: article
+  title: Target Defense against Sequentially Arriving Attackers
+  author:
+  - Pourghorban, Arman
+  - Dorothy, Michael
+  - Shishika, Daigo
+  - Von Moll, Alexander
+  - Maity, Dipankar
+  date: 2022-12-14
+  url: https://arxiv.org/pdf/2212.06628.pdf
+  serial-number:
+    doi: 10.1109/CDC51059.2022.9992425
+  parent:
+    type: proceedings
+    title: Conference on Decision and Control
+    publisher: IEEE
+    location: Cancun, MX
+manyam2022shortest:
+  type: article
+  title: Shortest Dubins Paths to Intercept a Target Moving on a Circle
+  author:
+  - Manyam, Satyanarayana Gupta
+  - Casbeer, David W.
+  - Von Moll, Alexander
+  - Fuchs, Zachariah
+  date: 2022-06-01
+  serial-number:
+    doi: 10.2514/1.G005748
+  parent:
+    type: periodical
+    title: Journal of Guidance, Control, and Dynamics
+    publisher: AIAA
+vonmoll2022pure:
+  type: article
+  title: Pure Pursuit with an Effector
+  author:
+  - Von Moll, Alexander
+  - Pachter, Meir
+  - Fuchs, Zachariah
+  date: 2022-11-02
+  page-range: 961
+  url: https://avonmoll.github.io/files/pure-pursuit-with-an-effector.pdf
+  serial-number:
+    doi: 10.1007/s13235-022-00481-9
+  parent:
+    type: periodical
+    title: Dynamic Games and Applications
+vonmoll2022skirmish-level:
+  type: thesis
+  title: Skirmish-Level Tactics via Game-Theoretic Analysis
+  author: Von Moll, Alexander
+  date: 2022-03-09
+  organization: University of Cincinnati
+  url: https://avonmoll.github.io/files/dissertation.pdf
+  serial-number:
+    doi: 10.13140/RG.2.2.31559.78242
+vonmoll2022lock-evade:
+  type: article
+  title: A Lock-Evade, Engage or Retreat Game
+  author:
+  - Von Moll, Alexander
+  - Fuchs, Zachariah
+  date: 2022-10-01
+  note: In preparation
+  parent:
+    type: periodical
+    title: None
+    publisher: IEEE
+dorothy2024one:
+  type: article
+  title: One Apollonius Circle is Enough for Many Pursuit-Evasion Games
+  author:
+  - Dorothy, Michael
+  - Maity, Dipankar
+  - Shishika, Daigo
+  - Von Moll, Alexander
+  date: 2024-01-17
+  url: https://arxiv.org/abs/2111.09205
+  serial-number:
+    doi: 10.1016/j.automatica.2024.111587
+  parent:
+    type: periodical
+    title: Automatica
+    publisher: IFAC
+bajaj2022competitive:
+  type: article
+  title: Competitive Perimeter Defense of Conical Environments
+  author:
+  - Bajaj, Shivam
+  - Torng, Eric
+  - Bopardikar, Shaunak D.
+  - Von Moll, Alexander
+  - Weintraub, Isaac
+  - Garcia, Eloy
+  - Casbeer, David W.
+  date: 2022-06-08
+  url: https://arxiv.org/pdf/2110.04667.pdf
+  serial-number:
+    doi: 10.1109/CDC51059.2022.9993007
+  parent:
+    type: proceedings
+    title: Conference on Decision and Control
+weintraub2022optimal:
+  type: article
+  title: An Optimal Engagement Zone Avoidance Scenario in 2-D
+  author:
+  - Weintraub, Isaac
+  - Von Moll, Alexander
+  - Carrizales, Christian
+  - Hanlon, Nicholas
+  - Fuchs, Zachariah
+  date: 2022-01-03
+  url: https://arxiv.org/pdf/2111.05904.pdf
+  serial-number:
+    doi: 10.2514/6.2022-1587
+  parent:
+    type: proceedings
+    title: Scitech
+    publisher: AIAA
+    location: San Diego
+vonmoll2022turret-runner-penetrator:
+  type: article
+  title: The Turret-Runner-Penetrator Differential Game with Role Selection
+  author:
+  - Von Moll, Alexander
+  - Shishika, Daigo
+  - Fuchs, Zachariah
+  - Dorothy, Michael
+  date: 2022-05-23
+  page-range: 5687–5702
+  url: https://avonmoll.github.io/files/trpdg-with-role-selection.pdf
+  serial-number:
+    doi: 10.1109/TAES.2022.3176599
+  parent:
+    type: periodical
+    title: IEEE Transactions on Aerospace & Electronic Systems
+    publisher: IEEE
+    issue: 6
+    volume: 58
+weintraub2021engagement:
+  type: article
+  title: Engagement Zone Defense of a Non-Maneuvering Evader
+  author:
+  - Weintraub, Isaac
+  - Von Moll, Alexander
+  - Casbeer, David
+  - Garcia, Eloy
+  - Pachter, Meir
+  date: 2021-08-31
+  serial-number:
+    doi: 10.1109/CCTA48906.2021.9659042
+  parent:
+    type: proceedings
+    title: Conference on Control Technology and Applications
+    location: San Diego, CA
+fuchs2021engage:
+  type: article
+  title: Engage or Retreat Differential Game with N-Targets and Distributed Defensive Assets
+  author:
+  - Fuchs, Zachariah E.
+  - Von Moll, Alexander
+  - Casbeer, David
+  date: 2021-08-31
+  serial-number:
+    doi: 10.1109/CCTA48906.2021.9658922
+  parent:
+    type: proceedings
+    title: Conference on Controls Technology and Applications
+    location: San Diego, CA
+vonmoll2021turret:
+  type: article
+  title: Turret Lock-on in an Engage or Retreat Game
+  author:
+  - Von Moll, Alexander
+  - Fuchs, Zachariah
+  date: 2021-05-28
+  page-range: 3188–3195
+  url: https://avonmoll.github.io/files/turret-lockon-in-an-engage-or-retreat-game.pdf
+  serial-number:
+    doi: 10.23919/ACC50511.2021.9483106
+  parent:
+    type: proceedings
+    title: American Control Conference
+    publisher: IEEE
+    location: New Orleans
+vonmoll2021turret-runner-penetrator:
+  type: article
+  title: The Turret-Runner-Penetrator Differential Game
+  author:
+  - Von Moll, Alexander
+  - Shishika, Daigo
+  - Fuchs, Zachariah
+  - Dorothy, Michael
+  date: 2021-05-26
+  url: https://avonmoll.github.io/files/turret-runner-penetrator-differential-game.pdf
+  serial-number:
+    doi: 10.23919/ACC50511.2021.9483094
+  parent:
+    type: proceedings
+    title: American Control Conference
+    location: New Orleans
+garcia2021cooperativeblocking:
+  type: article
+  title: The Cooperative Blocking Differential Game
+  author:
+  - Garcia, Eloy
+  - Casbeer, David W.
+  - Von Moll, Alexander
+  - Pachter, Meir
+  date: 2021-12-31
+  serial-number:
+    doi: 10.1109/CCTA48906.2021.9658654
+  parent:
+    type: proceedings
+    publisher: IEEE
+vonmoll2022circular:
+  type: article
+  title: Circular Target Defense Differential Games
+  author:
+  - Von Moll, Alexander
+  - Pachter, Meir
+  - Shishika, Daigo
+  - Fuchs, Zachariah
+  date: 2022-10-05
+  page-range: 4065–4078
+  url: https://avonmoll.github.io/files/circular-target-defense-differential-games.pdf
+  serial-number:
+    doi: 10.1109/TAC.2022.3203357
+  parent:
+    type: periodical
+    title: Transactions on Automatic Control
+    publisher: IEEE
+    location: New York
+    issue: 7
+    volume: 68
+weintraub2021maximum:
+  type: article
+  title: Maximum Observation of a Target by a Slower Observer in Three Dimensions
+  author:
+  - Weintraub, Isaac E.
+  - Von Moll, Alexander
+  - Garcia, Eloy
+  - Pachter, Meir
+  date: 2021-12-15
+  serial-number:
+    doi: 10.2514/1.G005619
+  parent:
+    type: periodical
+    title: Journal of Guidance, Control, and Navigation
+    publisher: AIAA
+    issue: 3
+    volume: 44
+manyam2020curvature:
+  type: article
+  title: Curvature Constrained Paths to Intercept a Target Moving on a Circle
+  author:
+  - Manyam, Satyanarayana G.
+  - Casbeer, David W.
+  - Von Moll, Alexander
+  - Fuchs, Zachariah
+  date: 2020-12-31
+  note: Submitted for Review
+  parent:
+    type: periodical
+    title: Transactions on Automation Science and Engineering
+    publisher: IEEE
+garcia2020pride:
+  type: article
+  title: Pride of Lions and Man Differential Game
+  author:
+  - Garcia, Eloy
+  - Casbeer, David W.
+  - Von Moll, Alexander
+  - Pachter, Meir
+  date: 2020-12-08
+  serial-number:
+    doi: 10.1109/CDC42340.2020.9304060
+  parent:
+    type: proceedings
+    title: Conference on Decision and Control
+    location: Jeju Island, South Korea
+vonmoll2020guarding:
+  type: article
+  title: Guarding a Circular Target By Patrolling its Perimeter
+  author:
+  - Von Moll, Alexander
+  - Pachter, Meir
+  - Shishika, Daigo
+  - Fuchs, Zachariah
+  date: 2020-12-11
+  page-range: 1658–1665
+  url: https://avonmoll.github.io/files/guarding-a-circular-target-by-patrolling-its-perimeter.pdf
+  serial-number:
+    doi: 10.1109/CDC42340.2020.9304018
+  parent:
+    type: proceedings
+    title: Conference on Decision and Control
+    publisher: IEEE
+    location: Jeju Island, South Korea
+vonmoll2020evolutionary:
+  type: article
+  title: Evolutionary Design of Cooperative Predation Strategies
+  author:
+  - Von Moll, Alexander
+  - Androulakakis, Pavlos
+  - Fuchs, Zachariah
+  - Vanderelst, Dieter
+  date: 2020-08-24
+  url: https://avonmoll.github.io/files/evolutionary-design.pdf
+  serial-number:
+    doi: 10.1109/CoG47356.2020.9231945
+  parent:
+    type: proceedings
+    title: Conference on Games
+    publisher: IEEE
+    location: Osaka, Japan
+milutinovic2021rate:
+  type: article
+  title: Rate of Loss Characterization that Resolves the Dilemma of the Wall Pursuit Game Solution
+  author:
+  - Milutinović, Dejan
+  - Casbeer, David W.
+  - Von Moll, Alexander
+  - Pacther, Meir
+  - Garcia, Eloy
+  date: 2021-12-27
+  page-range: 242–256
+  serial-number:
+    doi: 10.1109/TAC.2021.3137786
+  parent:
+    type: periodical
+    title: Transactions on Automatic Control
+    publisher: IEEE
+    issue: 1
+    volume: 68
+vonmoll2014recent:
+  type: article
+  title: Recent Progress, Challenges, and Future Development Needs of Thermally/Energy Efficient Fuel Actuator Pumping Systems for Military Gas Turbine Engine Applications
+  author:
+  - Von Moll, Alexander
+  - Semega, Ken
+  - Behbahani, Alireza
+  - Hoying, John
+  date: 2014-01-01
+  parent:
+    type: proceedings
+    title: JANNAF Interagency Propulsion Committee 34th Airbreathing Propulsion
+    publisher: JANNAF Interagency Propulsion Committee
+vonmoll2013comparison:
+  type: article
+  title: Comparison of Communication Architectures and Network Topologies for Distributed Propulsion Controls
+  author:
+  - Von Moll, Alexander
+  - Behbahani, Alireza R.
+  date: 2013-02-01
+  url: http://www.dtic.mil/dtic/tr/fulltext/u2/a586909.pdf
+  parent:
+    type: proceedings
+    title: 59th International Instrumentation Symposium
+    publisher: ISA
+manyam2019coordinating:
+  type: article
+  title: Coordinating Defender Path Planning for Optimal Target-Attacker-Defender Game
+  author:
+  - Manyam, Satyanarayana G.
+  - Casbeer, David
+  - Von Moll, Alexander
+  - Garcia, Eloy
+  date: 2019-01-11
+  serial-number:
+    doi: 10.2514/6.2019-0388
+  parent:
+    type: proceedings
+    title: AIAA Infotech
+    publisher: AIAA
+    location: San Diego, CA
+behbahani2014aircraft:
+  type: article
+  title: Aircraft Integration Challenges and Opportunities for Distributed Intelligent Control, Power, Thermal Management, Diagnostic and Prognostic Systems
+  author:
+  - Behbahani, Alireza R.
+  - Von Moll, Alex
+  - Zeller, Robert
+  - Ordo, James
+  date: 2014-09-01
+  serial-number:
+    doi: 10.4271/2014-01-2161
+  parent:
+    type: proceedings
+    title: 2014 SAE Aerospace Systems and Technology Conference
+    publisher: SAE International
+vonmoll2019multiple:
+  type: article
+  title: Multiple Pursuer Single Evader Border Defense Differential Game
+  author:
+  - Von Moll, Alexander
+  - Garcia, Eloy
+  - Casbeer, David
+  - Manickam, Suresh
+  - Swar, Sufal Chandra
+  date: 2019-01-11
+  url: https://avonmoll.github.io/files/mp1e-border.pdf
+  serial-number:
+    doi: 10.2514/6.2019-1162
+  parent:
+    type: proceedings
+    title: AIAA SciTech
+    publisher: AIAA
+    location: San Diego, CA
+vonmoll2014review:
+  type: article
+  title: A Review of Exhaust Gas Temperature Sensing Techniques for Modern Turbine Engine Controls
+  author:
+  - Von Moll, Alexander
+  - Behbahani, Alireza R.
+  - Fralick, Gustave C.
+  - Wrbanek, John D.
+  - Hunter, Gary W.
+  date: 2014-07-25
+  url: http://arc.aiaa.org/doi/10.2514/6.2014-3977
+  serial-number:
+    doi: 10.2514/6.2014-3977
+  parent:
+    type: proceedings
+    title: 50th AIAA/ASME/SAE/ASEE Joint Propulsion Conference
+    publisher: American Institute of Aeronautics, Astronautics
+    parent:
+      type: proceedings
+      title: AIAA Propulsion and Energy Forum
+black2018integrated:
+  type: article
+  title: Integrated Fiber-Optic Sensor Network System Reliability Modeling and Analysis for Aerospace Applications
+  author:
+  - Black, Richard J.
+  - Moslehi, Behzad
+  - Price, W
+  - Sotoudeh, Vahid
+  - Osterman, Michael
+  - Das, Diganta
+  - Behbahani, Alireza
+  - Von Moll, Alexander
+  - Semega, Kenneth
+  date: 2018-01-07
+  url: http://arc.aiaa.org/doi/10.2514/6.2018-0714
+  serial-number:
+    doi: 10.2514/6.2018-0714
+  parent:
+    type: proceedings
+    title: 2018 AIAA Information Systems-AIAA Infotech @ Aerospace
+    publisher: American Institute of Aeronautics, Astronautics
+    parent:
+      type: proceedings
+      title: AIAA SciTech Forum
+vonmoll2018genetic:
+  type: article
+  title: Genetic Algorithm Approach for UAV Persistent Visitation Problem
+  author:
+  - Von Moll, Alexander
+  - Kalyanam, Krishna
+  - Casbeer, David
+  - Manyam, Satyanarayana G.
+  date: 2018-10-01
+  url: https://drive.google.com/file/d/0B0yHktr7udqgZERlUHRfaXNjOWQ5ZWJwNi05bDBvOVYtbDBV/view?usp=sharing
+  serial-number:
+    doi: 10.1115/DSCC2018-8950
+  parent:
+    type: proceedings
+    publisher: ASME
+    location: Atlanta, GA
+moslehi2018high-bandwidth:
+  type: article
+  title: High-Bandwidth Fiber-Optic Pressure Sensors for High-Temperature Aerospace Applications
+  author:
+  - Moslehi, Behzad
+  - Price, W
+  - Black, Richard J.
+  - Han, Ming
+  - Behbahani, Alireza
+  - Von Moll, Alexander
+  - Semega, Kenneth
+  date: 2018-01-07
+  url: http://arc.aiaa.org/doi/10.2514/6.2018-0715
+  serial-number:
+    doi: 10.2514/6.2018-0715
+  parent:
+    type: proceedings
+    title: 2018 AIAA Information Systems-AIAA Infotech @ Aerospace
+    publisher: American Institute of Aeronautics, Astronautics
+    parent:
+      type: proceedings
+      title: AIAA SciTech Forum
+salmon2020single:
+  type: article
+  title: Single Pursuer Multiple-Cooperative Evaders in the Border Defense Differential Game
+  author:
+  - Salmon, John L.
+  - Willey, Landon C.
+  - Casbeer, David
+  - Garcia, Eloy
+  - Von Moll, Alexander
+  date: 2020-03-19
+  serial-number:
+    doi: 10.2514/1.I010766
+  parent:
+    type: periodical
+    title: Journal of Aerospace Information Systems
+    publisher: AIAA
+vonmoll2015machine:
+  type: thesis
+  title: Machine Learning Applications in Complex Control Systems
+  author: Von Moll, Alexander
+  date: 2015-12-01
+  organization: Georgia Institute of Technology
+  url: https://www.slideshare.net/AlexanderVonMoll/vonmollpaper
+  note: Special Project AE8900
+pachter2020cooperative:
+  type: article
+  title: Cooperative Pursuit by Multiple Pursuers of a Single Evader
+  author:
+  - Pachter, Meir
+  - Von Moll, Alexander
+  - Garcia, Eloy
+  - Casbeer, David
+  - Milutinović, Dejan
+  date: 2020-02-01
+  url: https://avonmoll.github.io/files/ManyPursuers.pdf
+  serial-number:
+    doi: 10.2514/1.I010739
+  parent:
+    type: periodical
+    title: Journal of Aerospace Information Systems
+kalyanam2018scalable:
+  type: article
+  title: Scalable and Exact MILP Methods for UAV Persistent Visitation Problem
+  author:
+  - Kalyanam, Krishna
+  - Manyam, Satyanarayana
+  - Von Moll, Alexander
+  - Casbeer, David
+  - Pachter, Meir
+  date: 2018-08-01
+  page-range: 337–342
+  url: https://sites.google.com/site/krishnakalyanam/ccta2018.pdf
+  serial-number:
+    doi: 10.1109/CCTA.2018.8511587
+  parent:
+    type: proceedings
+    publisher: IEEE
+vonmoll2020multiple:
+  type: article
+  title: Multiple Pursuer Single Evader Border Defense Differential Game
+  author:
+  - Von Moll, Alexander
+  - Garcia, Eloy
+  - Casbeer, David
+  - Manickam, Suresh
+  - Swar, Sufal Chandra
+  date: 2020-02-01
+  url: https://avonmoll.github.io/files/mp1e-border.pdf
+  serial-number:
+    doi: 10.2514/1.I010740
+  parent:
+    type: periodical
+    title: Journal of Aerospace Information Systems
+    publisher: AIAA
+garcia2019cooperative:
+  type: article
+  title: Cooperative Two-Pursuer One-Evader Blocking Differential Game
+  author:
+  - Garcia, Eloy
+  - Casbeer, David W.
+  - Von Moll, Alexander
+  - Pachter, Meir
+  date: 2019-07-10
+  serial-number:
+    doi: 10.23919/ACC.2019.8814294
+  parent:
+    type: proceedings
+manyam2019shortest:
+  type: article
+  title: Shortest Dubins Path to a Circle
+  author:
+  - Manyam, Satyanarayana Gupta
+  - Casbeer, David
+  - Von Moll, Alexander
+  - Fuchs, Zachariah
+  date: 2019-01-07
+  url: http://arxiv.org/abs/1804.07238
+  serial-number:
+    doi: 10.2514/6.2019-0919
+  parent:
+    type: proceedings
+    title: AIAA SciTech
+    publisher: AIAA
+    location: San Diego, CA
+manyam2019optimal:
+  type: article
+  title: Optimal Dubins Paths to Intercept a Moving Target on a Circle
+  author:
+  - Manyam, Satyanarayana G.
+  - Casbeer, David
+  - Von Moll, Alexander
+  - Fuchs, Zachariah
+  date: 2019-07-10
+  serial-number:
+    doi: 10.23919/ACC.2019.8814913
+  parent:
+    type: proceedings
+    title: American Control Conference
+garcia2020multiple:
+  type: article
+  title: Multiple Pursuer Multiple Evader Differential Games
+  author:
+  - Garcia, Eloy
+  - Casbeer, David
+  - Von Moll, Alexander
+  - Pachter, Meir
+  date: 2020-05-01
+  serial-number:
+    doi: 10.1109/TAC.2020.3003840
+  parent:
+    type: periodical
+    title: Transactions on Automatic Control
+    publisher: IEEE
+vonmoll2020optimal:
+  type: article
+  title: Optimal Constrained Retreat within the Turret Defense Differential Game
+  author:
+  - Von Moll, Alexander
+  - Fuchs, Zachariah
+  date: 2020-08-24
+  url: https://avonmoll.github.io/files/turret-ocr.pdf
+  serial-number:
+    doi: 10.1109/CCTA41146.2020.9206388
+  parent:
+    type: proceedings
+    title: Conference on Control Technology and Applications
+    location: Montreal, Canada
+vonmoll2020attacker:
+  type: article
+  title: Attacker Dispersal Surface in the Turret Defense Differential Game
+  author:
+  - Von Moll, Alexander
+  - Fuchs, Zachariah
+  date: 2020-07-31
+  page-range: 15659–15666
+  url: https://avonmoll.github.io/files/attacker-dispersal-surface.pdf
+  serial-number:
+    doi: 10.1016/j.ifacol.2020.12.2549
+  parent:
+    type: proceedings
+    title: IFAC World Congress on Automatic Control
+    location: Berlin, Germany
+    volume: 53
+garcia2019strategies:
+  type: article
+  title: Strategies for Defending a Coastline Against Multiple Attackers
+  author:
+  - Garcia, Eloy
+  - Von Moll, Alexander
+  - Casbeer, David
+  - Pachter, Meir
+  date: 2019-12-31
+  serial-number:
+    doi: 10.1109/CDC40024.2019.9029340
+  parent:
+    type: proceedings
+    title: IEEE Conference on Decision and Control
+    location: Nice, France
+weintraub2020maximum:
+  type: article
+  title: Maximum Observation of a Faster Non-Maneuvering Target by a Slower Observer
+  author:
+  - Weintraub, Isaac E.
+  - Von Moll, Alexander
+  - Garcia, Eloy
+  - Casbeer, David
+  - Demers, Zachary J. L.
+  - Pachter, Meir
+  date: 2020-07-05
+  serial-number:
+    doi: 10.23919/ACC45564.2020.9147340
+  parent:
+    type: proceedings
+    title: American Control Conference
+    location: Denver, CO
+pachter2019singular:
+  type: article
+  title: Singular Trajectories in the Two Pursuer One Evader Differential Game
+  author:
+  - Pachter, Meir
+  - Von Moll, Alexander
+  - Garcia, Eloy
+  - Casbeer, David
+  - Milutinović, Dejan
+  date: 2019-06-15
+  url: https://avonmoll.github.io/files/2p1e-singular.pdf
+  serial-number:
+    doi: 10.1109/ICUAS.2019.8798244
+  parent:
+    type: proceedings
+    title: 2019 International Conference on Unmanned Aircraft Systems
+    location: Atlanta, GA
+vonmoll2019robust:
+  type: article
+  title: Robust Policies for a Multiple Pursuer Single Evader Differential Game
+  author:
+  - Von Moll, Alexander
+  - Pachter, Meir
+  - Garcia, Eloy
+  - Casbeer, David
+  - Milutinović, Dejan
+  date: 2019-05-04
+  page-range: 202–221
+  url: https://avonmoll.github.io/files/mp1e-robust.pdf
+  serial-number:
+    doi: 10.1007/s13235-019-00313-3
+  parent:
+    type: periodical
+    title: Dynamic Games and Applications
+    issue: 10
+pachter2019two-on-one:
+  type: article
+  title: Two-on-One Pursuit
+  author:
+  - Pachter, Meir
+  - Von Moll, Alexander
+  - Garcia, Eloy
+  - Casbeer, David
+  - Milutinović, Dejan
+  date: 2019-07-08
+  url: https://avonmoll.github.io/files/TwoCutters.pdf
+  serial-number:
+    doi: 10.2514/1.G004068
+  parent:
+    type: periodical
+    title: Journal of Guidance, Control, and Dynamics
+    issue: 7
+    volume: 42
+vonmoll2020optimalevasion:
+  type: article
+  title: Optimal Evasion Against Dual Pure Pursuit
+  author:
+  - Von Moll, Alexander
+  - Fuchs, Zachariah
+  - Pachter, Meir
+  date: 2020-07-05
+  url: https://avonmoll.github.io/files/optimal-evasion-against-dual-pure-pursuit.pdf
+  serial-number:
+    doi: 10.23919/ACC45564.2020.9147776
+  parent:
+    type: proceedings
+    title: American Control Conference
+    publisher: IEEE
+    location: Denver, CO
+vonmoll2018pursuit-evasion:
+  type: article
+  title: Pursuit-evasion of an Evader by Multiple Pursuers
+  author:
+  - Von Moll, Alexander
+  - Casbeer, David W.
+  - Garcia, Eloy
+  - Milutinović, Dejan
+  date: 2018-06-01
+  page-range: 133–142
+  url: https://avonmoll.github.io/files/mp1e.pdf
+  serial-number:
+    doi: 10.1109/ICUAS.2018.8453470
+  parent:
+    type: proceedings
+    title: 2018 International Conference on Unmanned Aircraft Systems (ICUAS)
+    publisher: IEEE
+    location: Dallas, TX
+vonmoll2019multi-pursuer:
+  type: article
+  title: 'The Multi-Pursuer Single-Evader Game: A Geometric Approach'
+  author:
+  - Von Moll, Alexander
+  - Casbeer, David
+  - Garcia, Eloy
+  - Milutinović, Dejan
+  - Pachter, Meir
+  date: 2019-01-02
+  page-range: 193–207
+  url: https://avonmoll.github.io/files/mp1e-journal.pdf
+  serial-number:
+    doi: 10.1007/s10846-018-0963-9
+  parent:
+    type: periodical
+    title: Journal of Intelligent and Robotic Systems
+    issue: 2
+    volume: 96
+
