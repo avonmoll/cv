@@ -134,55 +134,13 @@ Developed support software and tools for the F-15SA flight control software grou
   ..formatted-awards
 )
 
-== Editorial Experience and Professional Service
+== Editorial Experience
 - Associate Editor for the 2026 American Control Conference
-- Invited Session Organizer for the 2026 American Control Conference: Multi-Agent Control & Coordination (double session)
-- Invited Session Organizer for the 2026 SciTech Forum: Multi-Agent Control & Coordination (double session)
-- Invited Session Organizer for the 2025 SciTech Forum: Multi-Agent Control & Coordination (double session)
-- Invited Session Organizer for the 2024 SciTech Forum: Multi-Agent Control & Coordination (double session)
 
 == Publications
 
 #let me = regex("(A. )*Von Moll")
 #show me: strong
-
-=== Direct Contributions to IEEE Transactions on Aerospace & Electronic Systems
-
-Two contributions have been made to IEEE TAES.
-The first addresses a two-attacker versus turret scenario in which cooperation among the attackers is required in order to achieve their goal of neutralizing the turret @vonmoll2022turret-runner-penetrator.
-The second addresses the problem of rendezvous and subsequent tracking of a target moving on a fixed course @weintraub2023surveillance.
-
-#cite(<vonmoll2022turret-runner-penetrator>, form: "full")
-
-#cite(<weintraub2023surveillance>, form: "full")
-
-=== Relevance to IEEE Transactions on Aerospace & Electronic Systems
-
-#show heading.where(level: 4): it => {
-  set text(black)
-  strong(it)
-}
-
-==== Guidance and Control Systems
-This research contributes to the design and analysis of guidance and control systems, specifically focusing on optimal control, differential games, and tactical maneuvering.
-- _Tactical and Optimal Evasion Against Pure Pursuit_:
-    - Characterized the pure pursuit guidance law for finite capture radius @vonmoll2022pure and provided guidelines for successful evasion of a faster evader
-    - Optimal evasion from two pursuers employing pure pursuit @vonmoll2020optimalevasion
-- _Cooperative Defense_: Investigated circular target defense differential games @vonmoll2022circular, cooperative turret defense @vonmoll2026target, and multi-pursuer border defense @vonmoll2020multiple
-- _Threat-Aware Maneuvering_: Addressed navigation around weapon engagement zones via a variety of methods including optimal control @weintraub2022optimal @vonmoll2020optimal, stochastic optimal control @vonmoll2025one-vs-one, and geometric methods @vonmoll2026reactive  @vonmoll2024basic  
-- _Tactical Game Theory_: Solved several turret-based and pursuit-evasion differential games, providing optimal high-level guidance (i.e., heading) to the agents @vonmoll2023turret @vonmoll2019robust @vonmoll2021turret @vonmoll2024complete
-These works directly apply to the following areas within GNC: missile applications including national or theater defense systems, autonomous guidance, and applications of optimization.
-
-==== Autonomous Systems
-This research directly supports the TAES focus on UAV autonomous flight control, swarms, and path planning for autonomous missions.
-- _Swarm & Fleet Coordination_: Developed geometric approaches for multi-pursuer single-evader games @vonmoll2019multi-pursuer @pachter2020cooperative
-- _UAV Interaction & Roles_: Analyzed the turret-runner-penetrator differential game with a focus on role selection for coordinated autonomous platforms @vonmoll2022turret-runner-penetrator
-- _Autonomous Path Planning_: Developed a genetic algorithm approach for UAV persistent visitation and surveillance of a sequence of targets @vonmoll2018genetic
-
-==== Intelligent Systems
-Many of the previously referenced works directly address the collaborative teaming aspect of the Intelligent Systems area (e.g., @vonmoll2026target @vonmoll2022turret-runner-penetrator @vonmoll2020multiple).
-Additionally, there are several other works which address the aspect of operating aerospace systems in uncertain environments, particularly in the area of avoiding weapon engagement zones in the presence of wind @milutinovic2024stochastic @milutinovic2025stochastic.
-Recent work on optimal uncertainty quantification has shown very promising capabilities for the certification of aerospace systems with limited information @subramanian2026certification.
 
 === Journal Papers
 #for key in journal-pubs [
