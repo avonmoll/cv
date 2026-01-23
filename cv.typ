@@ -114,6 +114,7 @@ Developed support software and tools for the F-15SA flight control software grou
 == Awards
 
 #let awards = (
+  ([2025], [Aerospace Systems Directorate Don Ross Scientific Achievement Award]),
   ([2024], [Air Force Research Laboratory Jack Blackhurst Innovation Award]),
   ([2022], [Excellent Reviewer -- AIAA Journal of Guidance, Control, and Dynamics]),
   ([2022], [University of Cincinnati Department of Electrical Engineering & Computer Science Outstanding Doctoral Dissertation Award]),
