@@ -3,4 +3,6 @@
 papis export --all -f bibtex "project:mypubs" |
 	# sed "s/ć/{\\\'c}/g" |
 	sed "/eventtitle = /d" |
-	sed "/type = /d" > cv.bib
+	sed "/type = /d" > /tmp/cv.bib
+    
+hayagriva /tmp/cv.bib > bib.yaml

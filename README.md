@@ -1,7 +1,3 @@
-# Fancy CV based on Classicthesis-Styled CV
+# Typst CV
 
-The template is available on [latextemplates.com](https://www.latextemplates.com/template/classicthesis-styled-cv).
-
----
-
-[View PDF](https://www.github.com/avonmoll/cv/build/cv.pdf)
+The template is based on [basic-resume](https://typst.app/universe/package/basic-resume)
