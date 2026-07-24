@@ -137,6 +137,7 @@ Developed support software and tools for the F-15SA flight control software grou
 == Editorial Experience
 - Associate Editor, IEEE Transactions on Aerospace and Electronic Systems, 2026--present
 - Associate Editor, 2026 American Control Conference
+- Guest Associate Editor (2025), Open Journal of Control Systems
 
 == Publications
 
